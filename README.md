@@ -34,7 +34,8 @@ Last year Economics student at PUCP. Currently working at Entel. Passionate abou
 - Eviews
 - Stata
 - Power BI
-- R
+- SQL
+
 
 **Languages and Tools:**  
 
