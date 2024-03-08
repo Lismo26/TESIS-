@@ -22,7 +22,7 @@
  PUCP | Works at Ambipar | Project Development | R | Python | Stata | Eviews 
 
 ## About :sunglasses:
-Last year Economics student at PUCP. Currently working at Entel. Passionate about finance, business development and operation. Also, have some experience in Business Development and social projects.
+Economics at PUCP. Currently working at Ambipar. Passionate about finance, business development and operation. Also, have some experience in Business Development and social projects.
 
 ## Communities :dancers:
 - Contributer at [Research Student](https://economica.pe/) 
